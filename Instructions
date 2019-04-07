@@ -1,0 +1,5 @@
+***INSTRUCTIONS***
+1) Run the Lock class. 
+2) Run the Prover class. Type in the outputed by the lock class
+3) Once the Prover class outputs "Connected with server", run the Verifier class
+4) Follow instruction outputed after running Verifier.
